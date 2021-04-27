@@ -1,0 +1,35 @@
+.votes {
+  position: absolute;
+  width: 32px;
+  hyphens: 64px;
+  margin: 0;
+  padding: 0 8px 4px 8px;
+  background-color: #f8f9fa;
+}
+
+/*.votes i {
+    padding-left: 0px;
+    font-size: 31px;
+}
+*/
+.votes p {
+  margin: 8px 4px;
+  color: #1a1a1b;
+}
+
+#up,
+#down {
+  color: #878a8c;
+  padding-left: 0px;
+  font-size: 31px;
+  cursor: pointer;
+}
+
+
+#up:hover {
+  color: #cc3700;
+}
+
+#down:hover {
+  color: #5b75cd;
+}

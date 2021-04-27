@@ -1,0 +1,9 @@
+.post {
+  display: flex;
+  position: relative;
+  width: 598px;
+  height: 614px;
+  padding-top: 8px;
+  margin: 0;
+  border: 0;
+}

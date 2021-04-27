@@ -1,0 +1,60 @@
+.top-bar {
+  display: flex;
+  align-items: center;
+  width: 582px;
+  height: 24px;
+  margin: 11px 8px 8px 8px;
+}
+
+.top-bar .join {
+  align-self: center;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+  padding-right: 4px;
+}
+
+#user {
+  font-size: 12px;
+  color: #1c1c1c;
+  margin: 0px 3px 0px 0px;
+}
+
+#dot {
+  width: auto;
+  height: auto;
+  margin: 0px 4px 0px 4px;
+}
+
+#sub {
+  font-size: 12px;
+  color: #1c1c1c;
+  margin: 0;
+  margin: 0px 3px 0px 0px;
+}
+
+#medals {
+  font-size: 12px;
+  color: #1c1c1c;
+  margin: 0;
+  margin: 0px 3px 0px 0px;
+}
+
+.join {
+  position: absolute;
+  top: 8px;
+  left: 516px;
+  padding: 4px 12px 4px 12px;
+  background-color: #0079d3;
+  color: white;
+  font-weight: bold;
+  border-radius: 28px;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.join:hover {
+  background-color: #045490;
+}

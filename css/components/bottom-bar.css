@@ -1,0 +1,72 @@
+.bottom-bar {
+  width: 588px;
+  height: 32px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 8px 0px 4px;
+}
+
+.comments {
+  width: 124px;
+  height: 16px;
+  padding: 5px 8px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.comments:hover {
+  background-color: #E6E8E9;
+}
+
+.share {
+  width: 75px;
+  height: 16px;
+  display: flex;
+  padding: 5px 8px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.share:hover {
+  background-color: #E6E8E9;
+}
+
+.save {
+  width: 50px;
+  height: 16px;
+  padding: 5px 8px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.save:hover {
+  background-color: #E6E8E9;
+}
+
+.menu {
+  width: 24px;
+  height: 16px;
+  padding: 5px 8px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.menu:hover {
+  background-color: #E6E8E9;
+}
+
+.bottom-bar p {
+  color: #878a8c;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.bottom-bar i {
+  color: #888b8d;
+}
